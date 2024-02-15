@@ -29,7 +29,7 @@ Aprire un pacchetto di figurine Ce l’ho, mi manca! Che emozione, ogni volta ch
     - appiccicare sull'album 
     - vado allo STEP 5
 
-- STEP 5: 
+- STEP 5: Verifico di avere figurine in mano
     - SE ho ancora figurine STEP 2 
     - OPPURE torno allo STEP 1
 
